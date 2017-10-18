@@ -1,0 +1,16 @@
+{
+  "name": "websocket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kodai",
+  "license": "MIT",
+  "dependencies": {
+    "express": "3.0.0-rc5",
+    "jade": "*",
+    "socket.io": "0.9.16"
+  }
+}
